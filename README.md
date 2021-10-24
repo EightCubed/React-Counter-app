@@ -1,6 +1,6 @@
-Application to increment and decrement a list of items using react.
-Items can be reset to 0 and items can also be deleted.
-A counter at the nav bar shows no. of non zero items
+# Application to increment and decrement a list of items using React.
+ Items can be reset to 0 and items can also be deleted.
+ A counter at the nav bar shows no. of non zero items
 
 # Getting Started with Create React App
 

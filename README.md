@@ -1,5 +1,8 @@
 # Application to increment and decrement a list of items using React.
+ A basic webpage that uses react to create a simple shopping cart where you can add and delete items.
+ 
  Items can be reset to 0 and items can also be deleted.
+ 
  A counter at the nav bar shows no. of non zero items
 
 # Getting Started with Create React App
